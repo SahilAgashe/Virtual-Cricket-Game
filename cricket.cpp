@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : virtual.cpp
-// Author      :*      Author: sahil *  Created on: 15-Sep-2021
+// Author      :*      Author: SAHIL AMRUT AGASHE*  Created on: 15-Sep-2021
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
